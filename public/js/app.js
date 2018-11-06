@@ -60,24 +60,21 @@
 /******/ 	__webpack_require__.p = "/";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 11);
+/******/ 	return __webpack_require__(__webpack_require__.s = 0);
 /******/ })
 /************************************************************************/
-/******/ ({
-
-/***/ 11:
+/******/ ([
+/* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(12);
-module.exports = __webpack_require__(43);
+__webpack_require__(1);
+module.exports = __webpack_require__(2);
 
 
 /***/ }),
+/* 1 */
+/***/ (function(module, exports) {
 
-/***/ 12:
-/***/ (function(module, __webpack_exports__) {
-
-"use strict";
 
 /**
  * First we will load all of this project's JavaScript dependencies which
@@ -102,12 +99,10 @@ module.exports = __webpack_require__(43);
 //});
 
 /***/ }),
-
-/***/ 43:
+/* 2 */
 /***/ (function(module, exports) {
 
 // removed by extract-text-webpack-plugin
 
 /***/ })
-
-/******/ });
+/******/ ]);

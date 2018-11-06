@@ -17,6 +17,7 @@
 
   <link href="css/animate.css" rel="stylesheet" type="text/css">
   <link href="css/style.css" rel="stylesheet" type="text/css">
+  <link href="css/color-default.css" rel="stylesheet" type="text/css">
   
 
   <!-- =======================================================
